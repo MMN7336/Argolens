@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236219411838",
+    "project_id": "argolens-6d840",
+    "storage_bucket": "argolens-6d840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236219411838:android:d8913ea8f5409b86ff572f",
+        "android_client_info": {
+          "package_name": "com.example.argolens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236219411838-l988ff864cf201ki1acrttla1ltqsuc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.argolens",
+            "certificate_hash": "f2902e3533150fa787f9ec7fc60b0489b40562eb"
+          }
+        },
+        {
+          "client_id": "236219411838-gl6mhnotcdvv763o6hpq2shult3noi3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoK40Ep5uIJfQGY7HhgP1lJUUAMgJwMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236219411838-gl6mhnotcdvv763o6hpq2shult3noi3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
