@@ -34,8 +34,7 @@ This project was developed collaboratively by a team of five members.
 ## 🛠️ Technologies Used
 - **AI / Deep Learning:** CNN
 - **Application Development:** [Android Flutter]
-- **Database:** [Mongodb]
-- 
+- **Database:** [Mongodb] 
 ## 🚀 Future Improvements
 - Improve disease detection accuracy.
 - Expand the supported rice disease categories.
